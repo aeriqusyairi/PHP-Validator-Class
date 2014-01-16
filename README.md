@@ -14,7 +14,7 @@ List of available validation rules
  4. matches 
     - verify that a value in a field is similar to value in specified field
  5. unique 
-    - verify that a value is unique in a database table
+    - verify that a value is unique in a database table (need singleton database class)
  6. accepted 
     - a value must be either 'yes', 'on', or 1
  7. before 
@@ -39,3 +39,9 @@ List of available validation rules
      - validate IP format
  17. url 
      - validate URL format
+
+Usage
+=====
+!TODO
+
+
