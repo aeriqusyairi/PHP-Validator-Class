@@ -2,6 +2,7 @@ PHP Validator Class
 ===================
 
 This validation class is somewhat inspired by Laravel and PHPAcademy validation class.
+
 Handy for managing site-wide validation rules.
 
 List of available validation rules
