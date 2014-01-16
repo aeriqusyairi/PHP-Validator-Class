@@ -1,6 +1,5 @@
 <?php
 class Validator{
-  
 	private $_passed = false,
 			$_errors = array();
 			//$_db = null;
