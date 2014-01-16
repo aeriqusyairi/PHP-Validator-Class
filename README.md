@@ -4,6 +4,7 @@ PHP Validator Class
 This validation class is somewhat inspired by Laravel validation class.
 
 List of available validation rules
+==================================
  1. required 
     - required field
  2. min 
